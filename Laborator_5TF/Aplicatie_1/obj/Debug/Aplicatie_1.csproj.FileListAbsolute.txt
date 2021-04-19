@@ -1,0 +1,26 @@
+C:\Users\ionde\Desktop\Laborator_5TF\Aplicatie_1\bin\Debug\Aplicatie_1.exe.config
+C:\Users\ionde\Desktop\Laborator_5TF\Aplicatie_1\bin\Debug\Aplicatie_1.exe
+C:\Users\ionde\Desktop\Laborator_5TF\Aplicatie_1\bin\Debug\Aplicatie_1.pdb
+C:\Users\ionde\Desktop\Laborator_5TF\Aplicatie_1\bin\Debug\WebDriver.dll
+C:\Users\ionde\Desktop\Laborator_5TF\Aplicatie_1\bin\Debug\WebDriver.Support.dll
+C:\Users\ionde\Desktop\Laborator_5TF\Aplicatie_1\bin\Debug\WebDriver.xml
+C:\Users\ionde\Desktop\Laborator_5TF\Aplicatie_1\bin\Debug\WebDriver.Support.xml
+C:\Users\ionde\Desktop\Laborator_5TF\Aplicatie_1\obj\Debug\Aplicatie_1.csprojResolveAssemblyReference.cache
+C:\Users\ionde\Desktop\Laborator_5TF\Aplicatie_1\obj\Debug\Aplicatie_1.exe
+C:\Users\ionde\Desktop\Laborator_5TF\Aplicatie_1\obj\Debug\Aplicatie_1.pdb
+C:\Users\ionde\Desktop\Laborator_5TF\Aplicatie_1\bin\Debug\nunit.framework.dll
+C:\Users\ionde\Desktop\Laborator_5TF\Aplicatie_1\bin\Debug\nunit.framework.xml
+C:\ASUS_X541U\UNIVER2018\SEMESTRUL_VI\Testarea Software\Laboratoare\Lab3_Initial\Laborator_5TF\Aplicatie_1\bin\Debug\Aplicatie_1.exe.config
+C:\ASUS_X541U\UNIVER2018\SEMESTRUL_VI\Testarea Software\Laboratoare\Lab3_Initial\Laborator_5TF\Aplicatie_1\bin\Debug\Aplicatie_1.exe
+C:\ASUS_X541U\UNIVER2018\SEMESTRUL_VI\Testarea Software\Laboratoare\Lab3_Initial\Laborator_5TF\Aplicatie_1\bin\Debug\Aplicatie_1.pdb
+C:\ASUS_X541U\UNIVER2018\SEMESTRUL_VI\Testarea Software\Laboratoare\Lab3_Initial\Laborator_5TF\Aplicatie_1\bin\Debug\nunit.framework.dll
+C:\ASUS_X541U\UNIVER2018\SEMESTRUL_VI\Testarea Software\Laboratoare\Lab3_Initial\Laborator_5TF\Aplicatie_1\bin\Debug\WebDriver.dll
+C:\ASUS_X541U\UNIVER2018\SEMESTRUL_VI\Testarea Software\Laboratoare\Lab3_Initial\Laborator_5TF\Aplicatie_1\bin\Debug\WebDriver.Support.dll
+C:\ASUS_X541U\UNIVER2018\SEMESTRUL_VI\Testarea Software\Laboratoare\Lab3_Initial\Laborator_5TF\Aplicatie_1\bin\Debug\nunit.framework.xml
+C:\ASUS_X541U\UNIVER2018\SEMESTRUL_VI\Testarea Software\Laboratoare\Lab3_Initial\Laborator_5TF\Aplicatie_1\bin\Debug\WebDriver.xml
+C:\ASUS_X541U\UNIVER2018\SEMESTRUL_VI\Testarea Software\Laboratoare\Lab3_Initial\Laborator_5TF\Aplicatie_1\bin\Debug\WebDriver.Support.xml
+C:\ASUS_X541U\UNIVER2018\SEMESTRUL_VI\Testarea Software\Laboratoare\Lab3_Initial\Laborator_5TF\Aplicatie_1\obj\Debug\Aplicatie_1.csprojAssemblyReference.cache
+C:\ASUS_X541U\UNIVER2018\SEMESTRUL_VI\Testarea Software\Laboratoare\Lab3_Initial\Laborator_5TF\Aplicatie_1\obj\Debug\Aplicatie_1.csproj.CoreCompileInputs.cache
+C:\ASUS_X541U\UNIVER2018\SEMESTRUL_VI\Testarea Software\Laboratoare\Lab3_Initial\Laborator_5TF\Aplicatie_1\obj\Debug\Aplicatie_1.csproj.CopyComplete
+C:\ASUS_X541U\UNIVER2018\SEMESTRUL_VI\Testarea Software\Laboratoare\Lab3_Initial\Laborator_5TF\Aplicatie_1\obj\Debug\Aplicatie_1.exe
+C:\ASUS_X541U\UNIVER2018\SEMESTRUL_VI\Testarea Software\Laboratoare\Lab3_Initial\Laborator_5TF\Aplicatie_1\obj\Debug\Aplicatie_1.pdb
